@@ -7,4 +7,4 @@ Not using Intel original Wifi car, swapped by native BCM94360NG.
 Radeon RX 550 LP 4Gb, Yeston brand from Ali, Polaris, Native as well just added device-is FF67 and it worked out of the both including HDMI Audio.
 Onboard Audio is ALC255 with layout 66.
 
-Thanks tho this forum and all Opencore team
+Thanks to this forum and all Opencore team
